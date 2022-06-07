@@ -1,5 +1,11 @@
 <html>
 
+<<<<<<< HEAD
+=======
+<head>
+	<title>GIT ¼Ò°³</title>
+</head>
+>>>>>>> ì‹¤í—˜
 
 	<head>
 		<title>GIT ¼ö¾÷</title>
@@ -12,7 +18,7 @@
 
 		<ul>
 			<li>GITÀÌ¶õ?</li>
-			<li></li>
+			<li>¹öÀü°ü¸®</li>
 		</ul>	
 	</body>
 </html>
